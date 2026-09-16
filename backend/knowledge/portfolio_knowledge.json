@@ -1,0 +1,157 @@
+{
+  "profile": {
+    "name": "Leiya Sree M",
+    "role": "Computer Science Engineering Graduate",
+    "headline": "Full Stack Developer | Python Developer | AI Enthusiast",
+    "location": "Kanyakumari, Tamil Nadu",
+    "email": "leiyasree2005@gmail.com",
+    "phone": "+91 96007 52209",
+    "linkedin": "https://www.linkedin.com/in/leiya-sree",
+    "github": "https://github.com/leiya-sree",
+    "resume_url": "/Leiya-Sree-M-Resume.pdf"
+  },
+  "about": {
+    "description": "I’m a Full Stack Developer focused on building practical and user-friendly web applications. I work with React, Python, FastAPI, REST APIs, and SQL, and enjoy developing across both frontend and backend. I’m interested in AI application development and currently exploring AI integrations to …",
+    "specialization": "Web Development",
+    "location": "Tamil Nadu, India",
+    "development_focus": "Frontend, backend and API development with modern technologies.",
+    "learning_focus": "Exploring AI tools and continuously expanding my technical skills."
+  },
+  "skills": {
+    "Frontend": [
+      "React.js",
+      "Tailwind CSS",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "Backend": [
+      "Python",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "Database": [
+      "PostgreSQL",
+      "MySQL",
+      "SQL"
+    ],
+    "Libraries": [
+      "NumPy",
+      "Pandas"
+    ],
+    "Tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Power BI",
+      "Excel",
+      "Google Colab",
+      "Roboflow"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Banibro Technologies Pvt Ltd",
+      "role": "Software Development Intern",
+      "dates": "July 2026 – August 2026",
+      "location": "Nagercoil, Kanyakumari, India",
+      "internship_type": "Odoo ERP Software",
+      "what_i_worked_on": "Worked in an Odoo ERP software development environment, contributing to real-world development tasks involving data scraping and data processing using Python, XML, and PostgreSQL.",
+      "what_i_learned": "Gained valuable exposure to real-world software development and learned how IT teams work on practical business requirements. I also gained hands-on experience with Python, XML, PostgreSQL, and Odoo ERP while understanding real-world development workflows.",
+      "technologies": [
+        "Python",
+        "XML",
+        "PostgreSQL",
+        "Odoo ERP"
+      ]
+    },
+    {
+      "company": "Entuite Technologies Pvt Ltd",
+      "role": "Web Development Internship",
+      "dates": "July 2024",
+      "location": "Technopark, Tiruvandrum, India",
+      "internship_type": "Academic Internship",
+      "what_i_worked_on": "Worked on a Student Registration Form as part of my web development internship, using HTML5, CSS3, JavaScript, Python, FastAPI, and SQL.",
+      "what_i_learned": "Gained hands-on experience in web development and learned how frontend interfaces, backend APIs, and databases work together to build a web application.",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Python",
+        "FastAPI",
+        "SQL"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI-Based Road Quality Monitoring System",
+      "description": "Developed an AI-powered road quality monitoring platform using the YOLOv8 object detection model to identify potholes and road defects from uploaded images. Integrated GPS-based location tracking and built a dashboard for visualization and reporting.",
+      "category": "AI",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Python",
+        "FastAPI",
+        "MySQL",
+        "YOLOv8"
+      ],
+      "features_highlights": [
+        "Image Upload",
+        "Object Detection",
+        "Confidence Score",
+        "Dashboard",
+        "GPS Mapping",
+        "Detection Reports"
+      ]
+    },
+    {
+      "title": "AI-Powered College Placement Portal",
+      "description": "AI-driven placement portal with resume screening, job-role matching, resume feedback and personalized upskilling recommendations.",
+      "category": "Web",
+      "technologies": [
+        "React",
+        "FastAPI",
+        "MongoDB",
+        "REST API"
+      ],
+      "features_highlights": [
+        "Resume Screening",
+        "Job-Role Matching",
+        "Resume Feedback",
+        "Upskilling Recommendations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree_or_qualification": "Bachelor of Engineering",
+      "course": "Computer Science Engineering",
+      "institution": "St. Xavier's Catholic College of Engineering",
+      "university": "Anna University",
+      "dates": "2022 – 2026",
+      "result": "CGPA 7.9"
+    },
+    {
+      "degree_or_qualification": "Higher Secondary",
+      "course": "HSC",
+      "institution": "Sree Ramakrishna Matriculation Higher Secondary School, Paraicode",
+      "university": "Tamil Nadu State Board",
+      "dates": "2021 – 2022",
+      "result": "81.5%"
+    }
+  ],
+  "contact": {
+    "email": "leiyasree2005@gmail.com",
+    "phone": "+91 96007 52209",
+    "location": "Kanyakumari, Tamil Nadu",
+    "linkedin": "https://www.linkedin.com/in/leiya-sree",
+    "github": "https://github.com/leiya-sree",
+    "whatsapp_phone": "+919600752209"
+  },
+  "career_goal": {
+    "goal": "To become a skilled AI Developer and build practical AI solutions.",
+    "objective": "To secure a Full Stack Developer role where I can leverage my expertise in React, FastAPI, and AI to build scalable, impact-driven products — while continuously learning and growing as an engineer.",
+    "availability_statement": "Currently seeking opportunities to start my career in software development."
+  }
+}
